@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F694D0FA-0786-4C90-8E21-5079FCED4A24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformVisuals/PlatformVisuals/PlatformVisualsPage.xaml">
+    <Files>
+      <File FileName="PlatformVisuals/PlatformVisuals/PlatformVisualsPage.xaml" Line="23" Column="31" />
+      <File FileName="PlatformVisuals/PlatformVisuals/App.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlatformVisuals" expanded="True">
+            <Node name="PlatformVisuals" expanded="True">
+              <Node name="PlatformVisualsPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="PlatformVisuals.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlatformVisuals.Droid PreferredExecutionTarget="Android.Pixel_4_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

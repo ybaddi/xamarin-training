@@ -1,0 +1,11 @@
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/bin/Debug/netstandard2.0/PlatformVisuals.deps.json
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/bin/Debug/netstandard2.0/PlatformVisuals.dll
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/bin/Debug/netstandard2.0/PlatformVisuals.pdb
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.csprojAssemblyReference.cache
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisualsPage.xaml.g.cs
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.AssemblyInfoInputs.cache
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.AssemblyInfo.cs
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.csproj.CoreCompileInputs.cache
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.dll
+/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj/Debug/netstandard2.0/PlatformVisuals.pdb

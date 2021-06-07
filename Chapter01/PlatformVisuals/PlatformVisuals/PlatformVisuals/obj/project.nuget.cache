@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kONKwfJieqJk87p+gKjYgliHeZAqs1hCpBroch/tNO7ItQQ7UOraprt7pSz2u/Kwe2kU4EGzqN9/qJ7kF7/rPw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj",
+  "expectedPackageFiles": [
+    "/Users/baddi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

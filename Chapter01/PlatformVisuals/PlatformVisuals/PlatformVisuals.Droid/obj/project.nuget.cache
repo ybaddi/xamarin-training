@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnkcWyaMIdkeT+XE3jnIYqyygFFXVspzT9nDhuVnLxYMyMAAaCSHOtVQMPZ6W/WtQLYXwR2PI1Xa2ac0f/ncWQ==",
+  "success": true,
+  "projectFilePath": "/Volumes/Data/Workspace/formations/xamarin/xamarin-forms-book-samples/Chapter01/PlatformVisuals/PlatformVisuals/PlatformVisuals.Droid/PlatformVisuals.Droid.csproj",
+  "expectedPackageFiles": [
+    "/Users/baddi/.nuget/packages/xamarin.android.support.animated.vector.drawable/25.4.0.2/xamarin.android.support.animated.vector.drawable.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.annotations/25.4.0.2/xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.compat/25.4.0.2/xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.core.ui/25.4.0.2/xamarin.android.support.core.ui.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.core.utils/25.4.0.2/xamarin.android.support.core.utils.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.design/25.4.0.2/xamarin.android.support.design.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.fragment/25.4.0.2/xamarin.android.support.fragment.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.media.compat/25.4.0.2/xamarin.android.support.media.compat.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.transition/25.4.0.2/xamarin.android.support.transition.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v4/25.4.0.2/xamarin.android.support.v4.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v7.appcompat/25.4.0.2/xamarin.android.support.v7.appcompat.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v7.cardview/25.4.0.2/xamarin.android.support.v7.cardview.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v7.mediarouter/25.4.0.2/xamarin.android.support.v7.mediarouter.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v7.palette/25.4.0.2/xamarin.android.support.v7.palette.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.v7.recyclerview/25.4.0.2/xamarin.android.support.v7.recyclerview.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.android.support.vector.drawable/25.4.0.2/xamarin.android.support.vector.drawable.25.4.0.2.nupkg.sha512",
+    "/Users/baddi/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

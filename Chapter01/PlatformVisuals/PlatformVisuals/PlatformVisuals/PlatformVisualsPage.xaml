@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlatformVisuals.PlatformVisualsPage"
+             Title="Visuals">
+
+    <StackLayout Padding="10,0">
+        <Label Text="Hello, Xamarin.Forms!"
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />
+
+        <Button Text = "Click Me!"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center" />
+
+        <Switch VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center" />
+
+        <Slider VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="edit" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="edit.png" />
+                    <On Platform="Android" Value="ic_action_edit.png" />
+                    <On Platform="UWP" Value="Images/edit.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="search" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="search.png" />
+                    <On Platform="Android" Value="ic_action_search.png" />
+                    <On Platform="UWP" Value="Images/feature.search.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="refresh" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="reload.png" />
+                    <On Platform="Android" Value="ic_action_refresh.png" />
+                    <On Platform="UWP" Value="Images/refresh.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="explore" Order="Secondary" />
+        <ToolbarItem Text="discover" Order="Secondary" />
+        <ToolbarItem Text="evolve" Order="Secondary" />
+    </ContentPage.ToolbarItems>
+</ContentPage>

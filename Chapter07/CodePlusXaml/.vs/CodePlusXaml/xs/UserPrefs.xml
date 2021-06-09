@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1EE41355-A218-4AED-88B4-9A34940376DA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodePlusXaml/CodePlusXaml/CodePlusXamlPage.xaml.cs">
+    <Files>
+      <File FileName="CodePlusXaml/CodePlusXaml/CodePlusXamlPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CodePlusXaml/CodePlusXaml/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodePlusXaml" expanded="True">
+            <Node name="CodePlusXaml" expanded="True">
+              <Node name="CodePlusXamlPage.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
